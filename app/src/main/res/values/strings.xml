@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gemini AI Chat Bot</string>
+    <string name="message_gemini">Message Gemini...</string>
+</resources>
